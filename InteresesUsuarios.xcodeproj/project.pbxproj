@@ -13,6 +13,17 @@
 		5765F8A520709BDC00909C6B /* Shampoo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5765F8A420709BDC00909C6B /* Shampoo.jpg */; };
 		5765F8A920709C8E00909C6B /* Winry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5765F8A720709C8E00909C6B /* Winry.jpg */; };
 		5765F8AB20709D8000909C6B /* Kotonoha.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5765F8AA20709D8000909C6B /* Kotonoha.jpg */; };
+		57E56BE6207B0E87009E53AB /* misintereses.png in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BE5207B0E87009E53AB /* misintereses.png */; };
+		57E56BE8207B0FCC009E53AB /* Electro y Tecnología.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BE7207B0FCC009E53AB /* Electro y Tecnología.jpg */; };
+		57E56BEA207B116A009E53AB /* Decohogar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BE9207B116A009E53AB /* Decohogar.jpg */; };
+		57E56BEC207B11DC009E53AB /* Dormitorio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BEB207B11DC009E53AB /* Dormitorio.jpg */; };
+		57E56BEF207B13F7009E53AB /* Zapatos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BED207B13F7009E53AB /* Zapatos.jpg */; };
+		57E56BF0207B13F7009E53AB /* Accesorios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BEE207B13F7009E53AB /* Accesorios.jpg */; };
+		57E56BF2207B1406009E53AB /* Niños.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BF1207B1406009E53AB /* Niños.jpg */; };
+		57E56BF4207B140E009E53AB /* Moda Mujer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BF3207B140E009E53AB /* Moda Mujer.jpg */; };
+		57E56BF7207B1425009E53AB /* Deportes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BF5207B1425009E53AB /* Deportes.jpg */; };
+		57E56BF8207B1425009E53AB /* Moda Hombre.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BF6207B1425009E53AB /* Moda Hombre.jpg */; };
+		57E56BFA207B1430009E53AB /* Belleza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E56BF9207B1430009E53AB /* Belleza.jpg */; };
 		DE53769C1E93C62F0000FB54 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE53769B1E93C62F0000FB54 /* AppDelegate.swift */; };
 		DE53769E1E93C62F0000FB54 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE53769D1E93C62F0000FB54 /* ViewController.swift */; };
 		DE5376A11E93C62F0000FB54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE53769F1E93C62F0000FB54 /* Main.storyboard */; };
@@ -28,7 +39,18 @@
 		5765F8A420709BDC00909C6B /* Shampoo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shampoo.jpg; sourceTree = "<group>"; };
 		5765F8A720709C8E00909C6B /* Winry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Winry.jpg; sourceTree = "<group>"; };
 		5765F8AA20709D8000909C6B /* Kotonoha.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kotonoha.jpg; sourceTree = "<group>"; };
-		DE5376981E93C62F0000FB54 /* TestCellPicture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestCellPicture.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		57E56BE5207B0E87009E53AB /* misintereses.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = misintereses.png; sourceTree = "<group>"; };
+		57E56BE7207B0FCC009E53AB /* Electro y Tecnología.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Electro y Tecnología.jpg"; sourceTree = "<group>"; };
+		57E56BE9207B116A009E53AB /* Decohogar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Decohogar.jpg; sourceTree = "<group>"; };
+		57E56BEB207B11DC009E53AB /* Dormitorio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dormitorio.jpg; sourceTree = "<group>"; };
+		57E56BED207B13F7009E53AB /* Zapatos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zapatos.jpg; sourceTree = "<group>"; };
+		57E56BEE207B13F7009E53AB /* Accesorios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Accesorios.jpg; sourceTree = "<group>"; };
+		57E56BF1207B1406009E53AB /* Niños.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Niños.jpg"; sourceTree = "<group>"; };
+		57E56BF3207B140E009E53AB /* Moda Mujer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Moda Mujer.jpg"; sourceTree = "<group>"; };
+		57E56BF5207B1425009E53AB /* Deportes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Deportes.jpg; sourceTree = "<group>"; };
+		57E56BF6207B1425009E53AB /* Moda Hombre.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Moda Hombre.jpg"; sourceTree = "<group>"; };
+		57E56BF9207B1430009E53AB /* Belleza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Belleza.jpg; sourceTree = "<group>"; };
+		DE5376981E93C62F0000FB54 /* InteresesUsuarios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InteresesUsuarios.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE53769B1E93C62F0000FB54 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE53769D1E93C62F0000FB54 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DE5376A01E93C62F0000FB54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -52,6 +74,17 @@
 		5765F89D20709A9A00909C6B /* Img */ = {
 			isa = PBXGroup;
 			children = (
+				57E56BE5207B0E87009E53AB /* misintereses.png */,
+				57E56BF3207B140E009E53AB /* Moda Mujer.jpg */,
+				57E56BF9207B1430009E53AB /* Belleza.jpg */,
+				57E56BF1207B1406009E53AB /* Niños.jpg */,
+				57E56BE9207B116A009E53AB /* Decohogar.jpg */,
+				57E56BF5207B1425009E53AB /* Deportes.jpg */,
+				57E56BF6207B1425009E53AB /* Moda Hombre.jpg */,
+				57E56BE7207B0FCC009E53AB /* Electro y Tecnología.jpg */,
+				57E56BED207B13F7009E53AB /* Zapatos.jpg */,
+				57E56BEE207B13F7009E53AB /* Accesorios.jpg */,
+				57E56BEB207B11DC009E53AB /* Dormitorio.jpg */,
 				5765F89E20709B2F00909C6B /* Akane.jpg */,
 				5765F8A220709B6600909C6B /* Kagome.jpg */,
 				5765F8AA20709D8000909C6B /* Kotonoha.jpg */,
@@ -65,7 +98,7 @@
 		DE53768F1E93C62E0000FB54 = {
 			isa = PBXGroup;
 			children = (
-				DE53769A1E93C62F0000FB54 /* CellPicture */,
+				DE53769A1E93C62F0000FB54 /* InteresesUsuarios */,
 				DE5376991E93C62F0000FB54 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,12 +106,12 @@
 		DE5376991E93C62F0000FB54 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DE5376981E93C62F0000FB54 /* TestCellPicture.app */,
+				DE5376981E93C62F0000FB54 /* InteresesUsuarios.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DE53769A1E93C62F0000FB54 /* CellPicture */ = {
+		DE53769A1E93C62F0000FB54 /* InteresesUsuarios */ = {
 			isa = PBXGroup;
 			children = (
 				5765F89D20709A9A00909C6B /* Img */,
@@ -90,16 +123,16 @@
 				DE5376A41E93C62F0000FB54 /* LaunchScreen.storyboard */,
 				DE5376A71E93C62F0000FB54 /* Info.plist */,
 			);
-			name = CellPicture;
+			name = InteresesUsuarios;
 			path = cellFun;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DE5376971E93C62F0000FB54 /* TestCellPicture */ = {
+		DE5376971E93C62F0000FB54 /* InteresesUsuarios */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DE5376AA1E93C62F0000FB54 /* Build configuration list for PBXNativeTarget "TestCellPicture" */;
+			buildConfigurationList = DE5376AA1E93C62F0000FB54 /* Build configuration list for PBXNativeTarget "InteresesUsuarios" */;
 			buildPhases = (
 				DE5376941E93C62F0000FB54 /* Sources */,
 				DE5376951E93C62F0000FB54 /* Frameworks */,
@@ -109,9 +142,9 @@
 			);
 			dependencies = (
 			);
-			name = TestCellPicture;
+			name = InteresesUsuarios;
 			productName = cellFun;
-			productReference = DE5376981E93C62F0000FB54 /* TestCellPicture.app */;
+			productReference = DE5376981E93C62F0000FB54 /* InteresesUsuarios.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -131,7 +164,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DE5376931E93C62E0000FB54 /* Build configuration list for PBXProject "TestCellPicture" */;
+			buildConfigurationList = DE5376931E93C62E0000FB54 /* Build configuration list for PBXProject "InteresesUsuarios" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -144,7 +177,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DE5376971E93C62F0000FB54 /* TestCellPicture */,
+				DE5376971E93C62F0000FB54 /* InteresesUsuarios */,
 			);
 		};
 /* End PBXProject section */
@@ -154,6 +187,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57E56BE6207B0E87009E53AB /* misintereses.png in Resources */,
 				DE5376A61E93C62F0000FB54 /* LaunchScreen.storyboard in Resources */,
 				5765F89F20709B2F00909C6B /* Akane.jpg in Resources */,
 				DE5376A31E93C62F0000FB54 /* Assets.xcassets in Resources */,
@@ -161,8 +195,18 @@
 				DE5376A11E93C62F0000FB54 /* Main.storyboard in Resources */,
 				5765F8AB20709D8000909C6B /* Kotonoha.jpg in Resources */,
 				5765F8A320709B6600909C6B /* Kagome.jpg in Resources */,
+				57E56BF0207B13F7009E53AB /* Accesorios.jpg in Resources */,
+				57E56BEF207B13F7009E53AB /* Zapatos.jpg in Resources */,
+				57E56BF2207B1406009E53AB /* Niños.jpg in Resources */,
+				57E56BEC207B11DC009E53AB /* Dormitorio.jpg in Resources */,
+				57E56BE8207B0FCC009E53AB /* Electro y Tecnología.jpg in Resources */,
 				5765F8A920709C8E00909C6B /* Winry.jpg in Resources */,
+				57E56BEA207B116A009E53AB /* Decohogar.jpg in Resources */,
+				57E56BFA207B1430009E53AB /* Belleza.jpg in Resources */,
+				57E56BF4207B140E009E53AB /* Moda Mujer.jpg in Resources */,
 				5765F8A120709B4C00909C6B /* Bulma.jpg in Resources */,
+				57E56BF8207B1425009E53AB /* Moda Hombre.jpg in Resources */,
+				57E56BF7207B1425009E53AB /* Deportes.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -323,7 +367,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DE5376931E93C62E0000FB54 /* Build configuration list for PBXProject "TestCellPicture" */ = {
+		DE5376931E93C62E0000FB54 /* Build configuration list for PBXProject "InteresesUsuarios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DE5376A81E93C62F0000FB54 /* Debug */,
@@ -332,7 +376,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DE5376AA1E93C62F0000FB54 /* Build configuration list for PBXNativeTarget "TestCellPicture" */ = {
+		DE5376AA1E93C62F0000FB54 /* Build configuration list for PBXNativeTarget "InteresesUsuarios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DE5376AB1E93C62F0000FB54 /* Debug */,

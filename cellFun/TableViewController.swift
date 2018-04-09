@@ -8,8 +8,27 @@
 
 import UIKit
 
-var pets = ["Bulma", "Kagome", "Winry","Shampoo" ,"Kotonoha"]
-var petDesc = ["Bulma es un personaje de la serie de manga y anime Dragon Ball. Bulma inicia la búsqueda de las Dragon Balls en el primer capítulo de la serie ya que desea encontrar un novio", "Kagome Higurashi es un personaje de ficción de la serie de anime y manga Inuyasha, creada por Rumiko Takahashi", "Winry Rockbell es un personaje del anime y manga Fullmetal Alchemist Es amiga de la infancia de los hermanos Elric, de la misma edad de Ed.","es una guerrera amazona y un personaje de procedencia China de la serie Ranma ½ del manga/anime de Rumiko Takahashi","Katsura Kotonoha es un personaje ficticio de la novela School Days y posterior adaptación anime"]
+var pets = ["Electro y Tecnología",
+            "Decohogar",
+            "Dormitorio",
+            "Deportes",
+            "Niños",
+            "Moda Mujer",
+            "Moda Hombre",
+            "Zapatos",
+            "Belleza",
+            "Accesorios"]
+
+var petDesc = ["Telefonos,TV,Computacion,Fotografia",
+               "Muebles,Living,Comedores,Sala de estar",
+               "Camas,Ropa de Capas,Colchones",
+               "Ropa Hombre Deporte,Ropa Mujer Deporte,Niños,Marcas Importantes",
+               "Coches,Mundo Bebe, Vestuario Niños ,Juguetes",
+               "Ropa Mujer , Ropa Juvenil, Maquillaje ,Jeans",
+               "Ropa Hombre ,Ropa Juvenil,Jeans",
+               "Zapatos Hombres y Mujers,Zapatos Niños y bebes" ,
+               "Perfumes,Maquillaje,Cremas",
+               "Joyas,Relojes,Lentes,Gafas de Sol,Mochilas y Carteras"]
 var myIndex = 0
 
 class TableViewController: UITableViewController {
@@ -25,6 +44,8 @@ class TableViewController: UITableViewController {
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath)
 
         cell.textLabel?.text = pets[indexPath.row]
+        
+       // cell.textLabel?.textColor
 
         return cell
     }

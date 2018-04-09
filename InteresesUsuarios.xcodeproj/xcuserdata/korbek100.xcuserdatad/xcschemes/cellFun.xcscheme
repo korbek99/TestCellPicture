@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DE5376971E93C62F0000FB54"
-               BuildableName = "TestCellPicture.app"
-               BlueprintName = "TestCellPicture"
-               ReferencedContainer = "container:TestCellPicture.xcodeproj">
+               BuildableName = "InteresesUsuarios.app"
+               BlueprintName = "InteresesUsuarios"
+               ReferencedContainer = "container:InteresesUsuarios.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DE5376971E93C62F0000FB54"
-            BuildableName = "TestCellPicture.app"
-            BlueprintName = "TestCellPicture"
-            ReferencedContainer = "container:TestCellPicture.xcodeproj">
+            BuildableName = "InteresesUsuarios.app"
+            BlueprintName = "InteresesUsuarios"
+            ReferencedContainer = "container:InteresesUsuarios.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DE5376971E93C62F0000FB54"
-            BuildableName = "TestCellPicture.app"
-            BlueprintName = "TestCellPicture"
-            ReferencedContainer = "container:TestCellPicture.xcodeproj">
+            BuildableName = "InteresesUsuarios.app"
+            BlueprintName = "InteresesUsuarios"
+            ReferencedContainer = "container:InteresesUsuarios.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DE5376971E93C62F0000FB54"
-            BuildableName = "TestCellPicture.app"
-            BlueprintName = "TestCellPicture"
-            ReferencedContainer = "container:TestCellPicture.xcodeproj">
+            BuildableName = "InteresesUsuarios.app"
+            BlueprintName = "InteresesUsuarios"
+            ReferencedContainer = "container:InteresesUsuarios.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
